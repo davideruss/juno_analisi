@@ -1,0 +1,12 @@
+*.csv
+*.dat
+*.txt
+*.root
+*.exe
+*makefile
+pmt/
+*.py
+fit/
+grafici/
+output/
+output2/
