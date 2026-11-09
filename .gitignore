@@ -1,0 +1,46 @@
+# Ambienti e cache locali
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+.mplconfig/
+.cache/
+.DS_Store
+*~
+*.swp
+.env
+.env.*
+
+# Compilazione C++ e ROOT
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.pcm
+*.rootmap
+a.out
+
+# Dati esterni e prodotti voluminosi
+*.root
+*.bin
+*.npy
+*.npz
+*.joblib
+*.pkl
+*.log
+output*/
+results*/
+data_local/
+scratch/
+
+# Esportazioni dei grafici, rigenerabili dai notebook
+*.png
+*.pdf
+*.svg
+
+# Le tabelle .txt/.csv/.dat e output_ideale.out sono intenzionalmente versionate.
