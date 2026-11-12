@@ -1,0 +1,15 @@
+{
+  "run": 14383,
+  "anello": 35,
+  "z_mm": 17100.0,
+  "cos_min": 0.75,
+  "cos_max": 0.8,
+  "hit": 97082,
+  "delta_salvato_ns": 2.8000000000000003,
+  "delta_relativo_salvato_ns": 7.475,
+  "riferimento_ns": -4.674999999999999,
+  "bin_tempo_ns": 0.25,
+  "passo_tabella_pdf_ns": 0.025,
+  "epsilon_pdf": 1e-09,
+  "t0": "Fisso, letto da JVertex; residual_times - t0, senza sottrarre di nuovo il ToF."
+}

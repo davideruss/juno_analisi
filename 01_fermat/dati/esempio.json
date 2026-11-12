@@ -1,0 +1,15 @@
+{
+  "pmt_id": 740,
+  "pmt_xyz_mm": [
+    2579.264,
+    -7938.16,
+    17550.31
+  ],
+  "z_sorgente_mm": 16000.0,
+  "raggio_ls_mm": 17820.0,
+  "n_ls": 1.54,
+  "n_acqua": 1.33,
+  "tof_lineare_ns": 41.480242577913,
+  "tof_fermat_ns": 41.00064881419295,
+  "scelta": "Esempio con minimo interno all’intervallo angolare; non un caso medio."
+}

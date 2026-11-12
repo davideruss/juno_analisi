@@ -43,4 +43,4 @@ scratch/
 *.pdf
 *.svg
 
-# Le tabelle .txt/.csv/.dat e output_ideale.out sono intenzionalmente versionate.
+# Le piccole tabelle .txt/.csv e i risultati nei notebook sono versionati.

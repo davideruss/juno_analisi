@@ -1,8 +1,4 @@
-# Dipendenze ricavate dagli import dei notebook; versioni non bloccate.
-# ROOT e g++ si installano separatamente.
 jupyterlab
 numpy
 scipy
 matplotlib
-pandas
-uproot
